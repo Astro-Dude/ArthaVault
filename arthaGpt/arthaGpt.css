@@ -6,6 +6,11 @@
     list-style: none;
 }
 
+a {
+    text-decoration: none;
+    color: red;
+}
+
 html, body{
     width: 100vw;
     height: 100vh;
